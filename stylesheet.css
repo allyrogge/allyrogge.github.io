@@ -1,0 +1,11 @@
+body {
+	font-family: 'Oswald', sans-serif; 
+	font-size: 60px;
+}
+img {
+    display: block;
+    height: 300px;
+    width: 300px;
+    margin: auto;
+}
+p {text-decoration:none; color:#385074;}
