@@ -3,7 +3,7 @@ body {
 	font-size: 60px;
 }
 img {
-    display: block;
+    display: inline-block;
     height: 300px;
     width: 300px;
     margin: auto;

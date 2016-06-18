@@ -14,3 +14,9 @@ footer {
 .bodything {
 	margin-top: 70px;
 }
+img.extraphotos {
+	margin: 5px;
+    border: 1px solid #ccc;
+   
+    width: 180px;
+}
